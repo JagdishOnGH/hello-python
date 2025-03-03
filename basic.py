@@ -15,4 +15,18 @@ else:
 grade = "IX"
 full_marks = 12.2
 name = "Jaggy"
+is_dev = False
+
+#multiple assignments, 
+len, breadth, height = 10,25,18
+print(f" Your data {len}, {breadth}, {height}: and volume is {len * breadth * height}")
+len = 23
+#
+'''
+DATA TYPES
+
+
+'''
+
+
 
